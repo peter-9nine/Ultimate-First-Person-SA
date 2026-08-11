@@ -2,6 +2,7 @@
   "major": 0,
   "minor": 45,
   "patch": 1,
+  "release_date" :"8/11/2016",
   "changelog": "- Added a transition lerp between ADS states: `Weapons > ADS`. On by default.\n- Added an option to make CJ naturally turn his body in the direction he is looking instead of rotating his body with the camera while standing still: `OnFoot > Switches > Natural Look Sides | Still`.\n- Added an option to choose whether all new weapons should start with recoil enabled: `Weapons > Recoil`. On by default.\n- Added an option to make the gun reloading process cinematic: `General > Cinematic > Reloading a Gun`. Off by default.\n- Added `UltimateFP_IsADSActive()->bool` to the API.\n- Added a new Global Multiplier for Recoil: ADS Active. `1.0f` by default.\n- Added an option to make the sniper's shots shake the camera: `Weapons > General`.\n- Fixed some bugs",
   "download_url": "https://www.patreon.com/peter_99/posts/update-ultimate-166337804?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
