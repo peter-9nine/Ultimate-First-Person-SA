@@ -1,8 +1,8 @@
 {
   "major": 0,
-  "minor": 45,
-  "patch": 1,
-  "release_date" :"8/11/2016",
-  "changelog": "- Added Ease In/Out to Weapons > Aim Down Sight > ADS Ease In | Out. Now both the in and out timing (in ms) can be edited separately.\n- Added Update Notifications — stay up to date with the mod. It lets you know when the latest update is released, so you can be the first to test the new features.\n",
-  "download_url": "https://www.patreon.com/peter_99/posts/update-ultimate-166433133?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+  "minor": 6,
+  "patch": 3,
+  "release_date" :"8/16/2026",
+  "changelog": "- Added the Manual Zoom feature under General > Manual Zoom. You can now zoom in at any time. Includes various settings, such as Focus FX and separate key bindings for gamepad and keyboard/mouse.\n- Added an option to select the key used to toggle ADS under Weapons > ADS. You can now choose which key toggles ADS.\n- Added an option to change the key binding used to open the menu with a gamepad under General > Menu.\n- Added UltimateFP_RegisterCinematicCondition to the API, allowing external mods to register custom conditions that can trigger Cinematic Mode. Registered conditions appear under General > Cinematic > External Conditions.\n- Fixed some bugs",
+  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-6-166882978?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
