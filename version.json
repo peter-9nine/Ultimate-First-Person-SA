@@ -1,8 +1,8 @@
 {
   "major": 0,
   "minor": 6,
-  "patch": 3,
-  "release_date" :"8/16/2026",
-  "changelog": "- Added the Manual Zoom feature under General > Manual Zoom. You can now zoom in at any time. Includes various settings, such as Focus FX and separate key bindings for gamepad and keyboard/mouse.\n- Added an option to select the key used to toggle ADS under Weapons > ADS. You can now choose which key toggles ADS.\n- Added an option to change the key binding used to open the menu with a gamepad under General > Menu.\n- Added UltimateFP_RegisterCinematicCondition to the API, allowing external mods to register custom conditions that can trigger Cinematic Mode. Registered conditions appear under General > Cinematic > External Conditions.\n- Fixed some bugs",
+  "patch": 4,
+  "release_date" :"8/17/2026",
+  "changelog": "- HotFix: Fixed a bug that cause an instant crash related with the share folder.",
   "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-6-166882978?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
