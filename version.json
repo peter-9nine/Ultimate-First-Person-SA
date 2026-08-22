@@ -1,8 +1,8 @@
 {
   "major": 0,
-  "minor": 6,
-  "patch": 4,
-  "release_date" :"8/17/2026",
-  "changelog": "- HotFix: Fixed a bug that cause an instant crash related with the share folder.",
-  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-6-166882978?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+  "minor": 7,
+  "patch": 0,
+  "release_date" :"8/22/2026",
+  "changelog": "- Weapons now visually kick back when firing while aiming down sights, then ease back smoothly. Feel varies per weapon. Found under Weapons > Recoil > Per-Weapon Recoil Options > Extra Options > ADS Recoil. Enabled by default.\n- Fixed a bug that caused a crash when using the Car Crash Inertia mod.\n- Added Use Separate Vehicle FOV. You can now set separate FOV values for On Foot and In Vehicle. Found under General > Camera > FOV. Disabled by default.\n- Added FOV FX: a smooth lerp toward your configured FOV values when entering first person. Found under General > Switches. Enabled by default.\n- Fixed a bug that caused you to keep walking when aiming a weapon.\n- You can now edit your configuration file, import new weapon configurations, and more using share/config-editor.html.",
+  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-7-167366898?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
