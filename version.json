@@ -1,8 +1,8 @@
 {
-  "major": 0,
-  "minor": 7,
+  "major": 1,
+  "minor": 0,
   "patch": 0,
-  "release_date" :"8/22/2026",
-  "changelog": "- Weapons now visually kick back when firing while aiming down sights, then ease back smoothly. Feel varies per weapon. Found under Weapons > Recoil > Per-Weapon Recoil Options > Extra Options > ADS Recoil. Enabled by default.\n- Fixed a bug that caused a crash when using the Car Crash Inertia mod.\n- Added Use Separate Vehicle FOV. You can now set separate FOV values for On Foot and In Vehicle. Found under General > Camera > FOV. Disabled by default.\n- Added FOV FX: a smooth lerp toward your configured FOV values when entering first person. Found under General > Switches. Enabled by default.\n- Fixed a bug that caused you to keep walking when aiming a weapon.\n- You can now edit your configuration file, import new weapon configurations, and more using share/config-editor.html.",
-  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-7-167366898?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+  "release_date" :"10/17/2026",
+  "changelog": "- Added Left Hand Grip.\n- Added Auto-Calibration for both hands (needs sight_front, sight_rear and grip_left dummies).\n- Added ADS Lean.\n- Added Zoomed Sensitivity for sniper, photo camera and ADS.\n- Added option to disable the vanilla Hood Camera.\n- Added per-vehicle G-Force camera.\n- Fixed gamepad absolute camera not following fast stick movements in vehicles.\n- Fixed CJ spinning when walking backward with twin pistols.\n- Improved menu and first-person movement.",
+  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-0-172622441?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
