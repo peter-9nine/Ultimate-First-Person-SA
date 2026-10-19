@@ -1,8 +1,8 @@
 {
   "major": 1,
-  "minor": 0,
+  "minor": 2,
   "patch": 0,
-  "release_date" :"10/17/2026",
-  "changelog": "- Added Left Hand Grip.\n- Added Auto-Calibration for both hands (needs sight_front, sight_rear and grip_left dummies).\n- Added ADS Lean.\n- Added Zoomed Sensitivity for sniper, photo camera and ADS.\n- Added option to disable the vanilla Hood Camera.\n- Added per-vehicle G-Force camera.\n- Fixed gamepad absolute camera not following fast stick movements in vehicles.\n- Fixed CJ spinning when walking backward with twin pistols.\n- Improved menu and first-person movement.",
-  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-0-172622441?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+  "release_date" :"10/18/2026",
+  "changelog": "- Added Left Hand Grip.\n- Added Auto-Calibration for both hands (needs sight_front, sight_rear and grip_left dummies).\n- Added ADS Lean.\n-Added a new Weapon Inspector feature, accessible via Weapons > Weapon Inspector, with I as the default keyboard shortcut and L1 + D-Pad Left for gamepads.\n- Added Zoomed Sensitivity for sniper, photo camera and ADS.\n- Added option to disable the vanilla Hood Camera.\n- Added per-vehicle G-Force camera.\n- Fixed gamepad absolute camera not following fast stick movements in vehicles.\n- Fixed CJ spinning when walking backward with twin pistols.\n- Improved menu and first-person movement.",
+  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-2-172622441?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
