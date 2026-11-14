@@ -1,8 +1,8 @@
 {
   "major": 1,
-  "minor": 2,
-  "patch": 0,
-  "release_date" :"10/18/2026",
-  "changelog": "- Added Left Hand Grip.\n- Added Auto-Calibration for both hands (needs sight_front, sight_rear and grip_left dummies).\n- Added ADS Lean.\n-Added a new Weapon Inspector feature, accessible via Weapons > Weapon Inspector, with I as the default keyboard shortcut and L1 + D-Pad Left for gamepads.\n- Added Zoomed Sensitivity for sniper, photo camera and ADS.\n- Added option to disable the vanilla Hood Camera.\n- Added per-vehicle G-Force camera.\n- Fixed gamepad absolute camera not following fast stick movements in vehicles.\n- Fixed CJ spinning when walking backward with twin pistols.\n- Improved menu and first-person movement.",
-  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-2-172622441?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+  "minor": 3,
+  "patch": 3,
+  "release_date" :"11/14/2026",
+  "changelog": "New:\n- ADS FX: scope lens shader on the sight_rear dummy (zoom, fish eye, aberration, vignette, tint, custom shape) + crosshair. Optional lens_top dummy makes it turn with the weapon.\n- ADS Sight Recoil, ADS Weapon Tilt and ADS Sway.\n- Depth of Field FX for Manual Zoom and Weapon Inspector (requires SimpleDepthBuffer.SA.asi, included).\n- BodyCam FX and HUD Visor (Manual Zoom scanner + shoot shake).\n- Crash FX for G-Force.\n- First Person Availability: Everywhere / On Foot only / In Vehicles only.\n- Swimming camera roll.\n- Share tab now lists general configs; key detection in the mod menu.\nImprovements:\n- Gamepad and mouse camera no longer depend on framerate.\n- Update check no longer freezes the game.\nFixes:\n- Share tab, crouch roll, ADS Kickback at low FPS, On Foot Look Behind.\n- Vehicle entry camera direction and vehicle/on-foot transition.\n- HUD Visor crash glitch, cinematic camera spin looking straight up/down.\n- Player moving while knocked down by a car.\n- Cinematic camera staying active after an animation ended.",
+  "download_url": "https://www.patreon.com/peter_99/posts/ultimate-first-3-175292517?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
 }
